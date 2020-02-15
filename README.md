@@ -5,4 +5,4 @@ This is the official repository of SkyRareNET!
 This is a repository of SkyRareNET!
 
 # Contact
-<a href="https://discord.gg/rCut2QF"><img src="https://discordapp.com/api/v7/guilds/236641445363056651/widget.png?style=banner3"></a>
+<a href="https://discord.gg/rCut2QF"><img src="https://discordapp.com/api/guilds/676106419249872896/widget.png?banner=3"></a>
